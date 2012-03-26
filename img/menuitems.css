@@ -1,0 +1,8 @@
+.bannerstyle .bannerstyle .menus {
+	background-image: url(bluestrip.png);
+	background-repeat: no-repeat;
+	background-position: left 40px;
+	height: auto;
+	width: 1000px;
+	border-top-style: none;
+}
